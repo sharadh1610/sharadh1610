@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sharadh
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Node 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Networking & Hardware
+- 🌱 I’m currently learning ... Humans
+- 💞️ I’m looking to collaborate on ... Hardware & IoT
+- 📫 How to reach me ... sharadhkcc@gmail.com
 
 <!---
 sharadh1610/sharadh1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
