@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sharadh
 - 👀 I’m interested in ...Networking & Hardware
 - 🌱 I’m currently learning ... Humans
-- 💞️ I’m looking to collaborate on ... Hardware & IoT
+- 💞️ I’m looking to collaborate on ... Hardware & IoT 
+- 💭 I'm Passinate about Tech 
 - 📫 How to reach me ... sharadhkcc@gmail.com
 
 <!---
